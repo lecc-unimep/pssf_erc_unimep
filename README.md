@@ -1,2 +1,4 @@
-# pssf_erc_unimep
-Repositório de arquivos contendo os scripts desenvolvidos nas aulas de Programação Shell Script e Ferramentas do curso de Especialização em Redes de Computadores.
+<CENTER>
+<img src="http://www.unimep.br/~jlzem/lecc/logo_lecc.jpg"><BR>
+<img src="http://www.unimep.br/~jlzem/logouni3.gif">
+</CENTER>
